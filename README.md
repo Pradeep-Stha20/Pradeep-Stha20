@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep-shrestha" height="30" width="40" /></a> <br>
-<a href="https://kaggle.com/pradeepsherstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pradeepsherstha" height="30" width="40" /></a> <br>
-<a href="https://fb.com/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradeep-shrestha" height="30" width="40" /></a> <br>
+<a href="https://linkedin.com/in/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep-shrestha" height="30" width="40" /></a> &nbsp;
+<a href="https://kaggle.com/pradeepsherstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pradeepsherstha" height="30" width="40" /></a> &nbsp;
+<a href="https://fb.com/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradeep-shrestha" height="30" width="40" /></a> &nbsp;
 <a href="https://instagram.com/https://www.instagram.com/pra_deep_stha_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pra_deep_stha_/" height="30" width="40" /></a>
 </p>
 
