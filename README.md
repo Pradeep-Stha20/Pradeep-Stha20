@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pradeep Shrestha</h1>
-<h3 align="center">A passionate backend developer from Kathmandu.</h3>
+<h3 align="center">I am a passionate backend developer from Kathmandu.</h3>
 
 - 🔭 I’m currently working on [Xelwel Innovation Pvt. Ltd.](https://xelwel.com.np)
 
 - 🌱 I’m currently learning **Django.**
 
-- 👨‍💻 All of my projects are available at [pradeepstha.com.np](pradeepstha.com.np)
-
 - 📫 How to reach me **shresthapradeep666@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep-shrestha" height="30" width="40" /></a>
-<a href="https://kaggle.com/pradeepsherstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pradeepsherstha" height="30" width="40" /></a>
-<a href="https://fb.com/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradeep-shrestha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep-shrestha" height="30" width="40" /></a> <br>
+<a href="https://kaggle.com/pradeepsherstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pradeepsherstha" height="30" width="40" /></a> <br>
+<a href="https://fb.com/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradeep-shrestha" height="30" width="40" /></a> <br>
 <a href="https://instagram.com/https://www.instagram.com/pra_deep_stha_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pra_deep_stha_/" height="30" width="40" /></a>
 </p>
 
