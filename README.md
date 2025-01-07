@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Shrestha</h1>
-<h3 align="center">I am a passionate backend developer from Kathmandu.</h3>
+<h3 align="center">A passionate backend developer from Kathmandu.</h3>
 
-- 🔭 I’m currently working on [Xelwel Innovation Pvt. Ltd.](https://xelwel.com.np)
-
-- 🌱 I’m currently learning **Django.**
-
-- 📫 How to reach me **shresthapradeep666@gmail.com**
+<br> <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
