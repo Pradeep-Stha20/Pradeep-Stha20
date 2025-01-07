@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradeep Shrestha</h1>
-<h3 align="center">A passionate backend developer from Kathmandu.</h3>
+<h3>A passionate backend developer from Kathmandu.</h3>
 
 <br> <br>
 
