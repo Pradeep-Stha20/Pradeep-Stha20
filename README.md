@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pradeep Shrestha</h1>
+<h1 align="center">Hi 👋, I'm Pradeep Shrestha. A web developer, from Nepal.</h1>
 
 ###
 
