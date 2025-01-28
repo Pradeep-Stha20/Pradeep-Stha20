@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://pradeepstha.com.np/"><img align="center" src="https://github.com/user-attachments/assets/ff505b2f-b020-4cc5-9881-6c2729fb6d98" alt="pradeep-shrestha" height="43" width="43" />
+<a href="https://pradeepstha.com.np/"><img align="center" src="https://github.com/user-attachments/assets/ff505b2f-b020-4cc5-9881-6c2729fb6d98" alt="pradeep-shrestha" height="43" width="43"/> &nbsp;
 <a href="https://linkedin.com/in/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep-shrestha" height="30" width="40" /></a> &nbsp;
 <a href="https://kaggle.com/pradeepsherstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pradeepsherstha" height="30" width="40" /></a> &nbsp;
 <a href="https://fb.com/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradeep-shrestha" height="30" width="40" /></a> &nbsp;
