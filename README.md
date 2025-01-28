@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=Pradeep-Stha20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pradeep-Stha20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Pradeep-Stha20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pradeep-Stha20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -12,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://pradeepstha.com.np/"><img align="center" src="https://github.com/user-attachments/assets/ff505b2f-b020-4cc5-9881-6c2729fb6d98" alt="pradeep-shrestha" height="43" width="43"/> &nbsp;
+<a href="https://pradeepstha.com.np/"><img align="center" src="https://github.com/user-attachments/assets/ff8f44ad-6a81-4e85-8dcf-55cd19b67bf3" alt="pradeep-shrestha" height="43" width="43"/></a> &nbsp;
 <a href="https://linkedin.com/in/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep-shrestha" height="30" width="40" /></a> &nbsp;
 <a href="https://kaggle.com/pradeepsherstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pradeepsherstha" height="30" width="40" /></a> &nbsp;
 <a href="https://fb.com/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradeep-shrestha" height="30" width="40" /></a> &nbsp;
