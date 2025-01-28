@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://pradeepstha.com.np/"><img align="center" src="https://www.google.com/search?q=logo+of+website+png&sca_esv=143f34c44a499d65&udm=2&biw=1536&bih=702&sxsrf=AHTn8zoeW8A6IHzYJxvSbSRBxFGUXAwOvQ%3A1738041724878&ei=fGmYZ4ymNeyPseMP0e3NuAc&ved=0ahUKEwiM1Pb81ZeLAxXsR2wGHdF2E3cQ4dUDCBI&uact=5&oq=logo+of+website+png&gs_lp=EgNpbWciE2xvZ28gb2Ygd2Vic2l0ZSBwbmcyBRAAGIAESKUoUKcCWOcgcAF4AJABAJgBmwGgAckEqgEDMC40uAEDyAEA-AEBmAIFoALkBMICChAAGIAEGEMYigXCAgYQABgHGB7CAgQQABgewgIGEAAYBRgewgIGEAAYCBgemAMAiAYBkgcDMS40oAeYBw&sclient=img#vhid=wNh4iNFJel4SRM&vssid=mosaic" alt="pradeep-shrestha" height="30" width="40" />
+<a href="https://pradeepstha.com.np/"><img align="center" src="https://github.com/user-attachments/assets/ff505b2f-b020-4cc5-9881-6c2729fb6d98" alt="pradeep-shrestha" height="43" width="43" />
 <a href="https://linkedin.com/in/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep-shrestha" height="30" width="40" /></a> &nbsp;
 <a href="https://kaggle.com/pradeepsherstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pradeepsherstha" height="30" width="40" /></a> &nbsp;
 <a href="https://fb.com/pradeep-shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradeep-shrestha" height="30" width="40" /></a> &nbsp;
